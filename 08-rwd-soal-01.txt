@@ -1,0 +1,7 @@
+Nazhwa Ameera H./ Kelompok 23
+
+1. Apa itu responsive web design? Responsive web design atau (RWD)bertujuan membuat desain website kita dapat diakses dalam device apapun.
+2. Sebutkan apa saja relative units yang dimiliki oleh CSS? em, ex, ch, rem, vw, vh, vmin, vmax, %
+3. Apa itu breakpoint? Bagaimana cara kita membuat hal tersebut? Merupakan perubahan yang terjadi pada tampilan saat berganti device atau ukuran width; Kita bisa menggunakan media query untuk membuat breakpoint 
+4. Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu element dalam bidang 1 dimensi? menggunakan flexbox layout
+5. Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu element dalam bidang 2 dimensi? menggunakan grid layout
